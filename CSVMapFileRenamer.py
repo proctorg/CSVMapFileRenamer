@@ -14,8 +14,8 @@ Column 2: New filename (target)
 import os
 import sys
 import pandas as pd
-from pathlib import Path
 import logging
+from pathlib import Path
 from gooey import Gooey, GooeyParser
 
 # Set up logging
